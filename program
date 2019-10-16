@@ -3,7 +3,7 @@ var a = 6;
 var b = 1; 
   
 // AND Operation 
-document.write("A & B = " + (a & b) + '<br>'); 
+document.write("A & B = " + (a & b) + '<br><br>'); 
   
   
 // OR operation 
