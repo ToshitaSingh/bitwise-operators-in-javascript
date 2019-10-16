@@ -7,7 +7,7 @@ document.write("A & B = " + (a & b) + '<br><br>');
   
   
 // OR operation 
-document.write("A | B = " + (a | b) + '<br>'); 
+document.write("A | B = " + (a | b) + '<br><br>'); 
   
 // NOT operation 
 document.write("~A = " + (~a) + '<br>'); 
